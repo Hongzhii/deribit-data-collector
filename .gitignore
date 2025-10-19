@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# macOS artifacts
+.DS_Store
+
+# Project-specific artifacts
+data/
+data_IM/
+instr_monitor.txt
+*.log
+test.*
+temp.*
