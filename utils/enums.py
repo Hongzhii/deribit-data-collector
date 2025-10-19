@@ -5,7 +5,7 @@ class Currency(Enum):
     ETH = "ETH"
 
 class InstrumentType(Enum):
-    OPTION = "option"
+    OPTION = "options"
 
 class Subscription(Enum):
     SUBSCRIBE = auto()
