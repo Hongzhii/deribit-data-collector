@@ -4,6 +4,9 @@ __pycache__/
 # macOS artifacts
 .DS_Store
 
+# VSCode settings
+.vscode/
+
 # Project-specific artifacts
 data/
 data_IM/
